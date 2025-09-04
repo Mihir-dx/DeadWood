@@ -1,0 +1,28 @@
+Core Gameplay Loop:
+
+DAY PHASE (1–3 minutes)
+
+Explore town buildings (saloon, sheriff’s office, general store, etc.)
+
+Loot weapons, ammo, and supplies
+
+Set traps (optional: place bear traps, board doors)
+
+Prepare for nightfall
+
+NIGHT PHASE (2–4 minutes)
+
+Zombies spawn in waves
+
+Survive until dawn
+
+Repair or upgrade between waves
+
+Repeat Until Dead
+
+Each new day gets harder: faster, tougher, or more zombies
+
+Optional: Leaderboard or score-based system (Must have to make it more interactive).
+
+
+Randomized loot spawns
