@@ -1,0 +1,11 @@
+// ZombieTypes.h
+#pragma once
+
+UENUM(BlueprintType)
+enum class EZombieType : uint8
+{
+	NONE		 UMETA(DisplayName = "NONE"),
+	Juggernaught UMETA(DisplayName = "Juggernaught"),
+	Screamer	 UMETA(DisplayName = "Screamer"),
+	Reaper		 UMETA(DisplayName = "Reaper"),
+};
